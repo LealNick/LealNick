@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello! My name is Nickolas Leal, I'm a Information Technology student looking to enhance my skills in HTML, CSS, JavaScript, PHP, Java, and MySQL. I'm here to share my projects, track my programming progress, and I hope to evolve professionally. 🙂
+# 👋 About Me:
+Hello! My name is Nickolas Leal, I'm an Information Technology student looking to enhance my skills in HTML, CSS, JavaScript, PHP, Java, and MySQL. I'm here to share my projects, track my programming progress, and I hope to evolve professionally. 🙂
 
 
 ## 🌐 Socials:
