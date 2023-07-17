@@ -2,7 +2,7 @@
 Olá! Meu nome é Nickolas Leal, sou um estudante de informática que deseja aprimorar suas habilidades em HTML, CSS, JavaScript, PHP, Java e MySQL. Estou aqui para compartilhar meus projetos, acompanhar meu progresso na programação e espero evoluir profissionalmente.🙂
 
 
-## 🌐 Mídias:
+# 🌐 Mídias:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nickolaslealdeaz) 
 
 # 💻 Habilidades Técnicas:
