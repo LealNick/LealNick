@@ -1,5 +1,5 @@
 # 👋 Sobre Mim:
-Olá! Meu nome é Nickolas Leal, sou um estudante de informática que deseja aprimorar suas habilidades em HTML, CSS, JavaScript, PHP, Java e MySQL. Estou aqui para compartilhar meus projetos, acompanhar meu progresso na programação e espero evoluir profissionalmente.🙂
+Olá! Meu nome é Nickolas Leal, sou um estudante de informática que deseja aprimorar suas habilidades em HTML, CSS, JavaScript, PHP e Java. Estou aqui para compartilhar meus projetos, acompanhar meu progresso na programação e espero evoluir profissionalmente.🙂
 
 # 💻 Habilidades Técnicas:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
