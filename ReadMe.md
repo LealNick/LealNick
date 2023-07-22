@@ -1,4 +1,4 @@
-# 👋 Sobre Mim:
+# 👋 Sobre Mim
 Olá! Meu nome é Nickolas Leal, sou um estudante de informática que deseja aprimorar suas habilidades em HTML, CSS, JavaScript, PHP e Java. Estou aqui para compartilhar meus projetos, acompanhar meu progresso na programação e espero evoluir profissionalmente.🙂
 
 # 💻 Habilidades Técnicas:
